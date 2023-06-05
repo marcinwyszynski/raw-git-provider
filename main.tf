@@ -1,5 +1,5 @@
 resource "random_string" "test" {
-  length = 16
+  length = 18
   lower  = false
 }
 
